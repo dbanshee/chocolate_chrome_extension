@@ -5,8 +5,8 @@ var loopText;
 var v;
 var styleStr;
 
-var loopKeyCode = 65; // F13
-//var loopKeyCode = 124; // Key 'a' Debug purpose 
+//var loopKeyCode = 65; // Key 'a' Debug purpose 
+var loopKeyCode = 124;  // F13
 
 var backColorStyle = 'background: rgba(0, 0, 0, 0.3)';
 
