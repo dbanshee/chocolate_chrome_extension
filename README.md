@@ -12,10 +12,10 @@ This code is part of the original *MWave extension* to which several improvement
 It is developed for native use with **MWave Chocolate** controller setted in Video Mode. In this mode, controller emits multimedia keys.
 
 ```
-Button 1 : KEYCODE_MEDIA_PLAY_PAUSE   = 85
-Button 2 : KEYCODE_MEDIA_REWIND       = 89
-Button 3 : KEYCODE_MEDIA_FAST_FORWARD = 90
-Button 4 : KEYCODE_INSERT             = 124
+- Button 1 -> <LEFT_ARROW>  : 37
+- Button 2 -> <RIGHT_ARROW> : 39
+- Button 3 -> <SPACE>       : 32 
+- Button 4 -> <F13>         : 124
 ```
 
 Buttons 1 - 3 are natively managed by browser player.
